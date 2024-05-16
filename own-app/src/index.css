@@ -56,3 +56,6 @@ code {
   gap:2%;
   align-items: center;
 }
+.search-box:hover {
+  background-color: lightpink;
+}
